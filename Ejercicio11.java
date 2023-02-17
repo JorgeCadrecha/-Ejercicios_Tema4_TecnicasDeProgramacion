@@ -86,7 +86,7 @@ public class Ejercicio11 {
                 
                 for (int i = 0; i < tamaño; i++) {
                     for (int j = 0; j < tamaño; j++) {
-                        if (i == tamaño - 1 || j == tamaño - 1 || i + j == tamaño - 1) {
+                        if (i == tamaño - 1 || i == j  || j == 0) {
                             System.out.print(caracter);
                         } else {
                             System.out.print(" ");
@@ -94,8 +94,6 @@ public class Ejercicio11 {
                     }
                     System.out.println();
                 }
-            
-          
                 break;
             case 5:
                 for (int i = 0; i < tamaño; i++) {
