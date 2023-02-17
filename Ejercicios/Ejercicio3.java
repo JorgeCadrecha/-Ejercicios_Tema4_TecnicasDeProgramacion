@@ -1,3 +1,4 @@
+package Ejercicios;
 /*
  * 3. La nota media (versión 3)
 Modificar el algoritmo anterior para mostrar además el porcentaje de notas superiores a 10/20.

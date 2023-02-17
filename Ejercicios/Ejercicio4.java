@@ -1,3 +1,4 @@
+package Ejercicios;
 /*4. Adivine en qué número estoy pensando
 Su algoritmo debe generar un número entero aleatorio entre 1 y 100. El usuario tiene que encontrar este número. Con cada intento del usuario, se le debe indicar si el número es mayor, menor o igual al valor introducido. El programa finaliza cuando el usuario ha encontrado el número.
 

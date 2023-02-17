@@ -1,3 +1,4 @@
+package Ejercicios;
 /*
  * Dibujar una de las siguientes formas, según la elección del usuario:
 

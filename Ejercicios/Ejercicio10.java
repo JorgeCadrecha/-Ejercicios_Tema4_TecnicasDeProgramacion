@@ -1,3 +1,4 @@
+package Ejercicios;
 /*
  * 10. Arte ASCII 1
 El arte ASCII consiste en hacer un diseño usando solo caracteres. Una de las formas más primitivas de este arte son los emoticonos: los caracteres :-) dibujan una carita sonriente.

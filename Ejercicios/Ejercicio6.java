@@ -1,3 +1,4 @@
+package Ejercicios;
 /*
  * 6. ¿Qué hace este algoritmo?
 Observe atentamente el siguiente algoritmo:

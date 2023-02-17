@@ -1,3 +1,4 @@
+package Ejercicios;
 /*
  * 5. Ahora tengo que encontrarlo yo
 Esta vez, el ordenador debe adivinar un número elegido por el usuario. El usuario le indica si el número es mayor (+), menor (-) o si lo ha encontrado (=).

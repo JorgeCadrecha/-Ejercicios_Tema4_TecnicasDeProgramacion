@@ -1,3 +1,4 @@
+package Ejercicios;
 /*
  * 9. Escribir un múltiplo de tres
 Escriba un programa que haga que el usuario escriba un múltiplo de tres y no se detenga hasta que el número sea correcto.

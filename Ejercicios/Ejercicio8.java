@@ -1,3 +1,4 @@
+package Ejercicios;
 /*
  * 8. Visualización de citas de películas (versión 2)
 Retomar el algoritmo anterior, modificándolo para que no se muestre siempre la misma cita de una película, sino que haya dos o tres y presente aleatoriamente una de ellas.

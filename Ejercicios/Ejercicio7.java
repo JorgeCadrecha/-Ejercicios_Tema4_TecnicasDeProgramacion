@@ -1,3 +1,4 @@
+package Ejercicios;
 /*
  * 7. Visualización de citas de películas (versión 1)
 El programa debe mostrar un menú con una lista de películas y una opción para salir.
