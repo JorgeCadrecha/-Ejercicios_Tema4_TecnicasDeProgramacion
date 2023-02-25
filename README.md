@@ -1,7 +1,7 @@
 # Ejercicios_Tema4_TecnicasDeProgramacion
 
 ## Nota:
-Mi repositorio es: https: https://github.com/JorgeCadrecha/Ejercicios_Tema4_TecnicasDeProgramacion.git
+Mi repositorio es: https://github.com/JorgeCadrecha/Ejercicios_Tema4_TecnicasDeProgramacion.git
 
 ## Enunciado
 1. La nota media (versión 1)
